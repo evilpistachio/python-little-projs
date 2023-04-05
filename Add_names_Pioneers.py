@@ -1,4 +1,4 @@
-#Caitlin Farley , HW7, program will add names to exisiting Pioneers file
+#program will add names to exisiting Pioneers file
 
 def main():
 
