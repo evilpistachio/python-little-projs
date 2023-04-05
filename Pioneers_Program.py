@@ -1,4 +1,4 @@
-#Caitlin Farley, HW7, program lists names from Pioneers.txt and takes input
+#program lists names from Pioneers.txt and takes input
 #of name from user and outputs the persons accomplishment
     
 #create loop condition for repeition
