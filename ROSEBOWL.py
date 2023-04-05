@@ -1,4 +1,4 @@
-#Caitlin Farley, HW8, program outputs names of Rose Bowl winners who have won
+#program outputs names of Rose Bowl winners who have won
 #4 or more times from rose_bowl.txt file
 
 
