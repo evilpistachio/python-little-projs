@@ -1,4 +1,4 @@
-#Caitlin Farley, 4/11/19- redo of suit cost program with half off discount
+#redo of suit cost program with half off discount
 # with functions
 
 #create loop so program can be repeated if user wants
