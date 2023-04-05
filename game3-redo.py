@@ -2,8 +2,6 @@
 """
 Created on Thu Jul 26 12:57:33 2018
 
-@author: caitlin
-"""
 
 class GameObject:
     class_name = ""
