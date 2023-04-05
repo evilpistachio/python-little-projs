@@ -1,4 +1,4 @@
-#Caitlin Farley, 4/10/19, Redo Suit cost loop- program calculates cost of 2 suits
+#Redo Suit cost loop- program calculates cost of 2 suits
 #with cheaper half off with functions
 
 anotherPurchase = ('y','Y','Yes','yes')
